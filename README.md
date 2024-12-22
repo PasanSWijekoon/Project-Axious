@@ -76,4 +76,3 @@ We welcome contributions! Please fork the repository and submit a pull request w
 
 
 #Agritech #Automation #TeaPlantations #ReactNative #JavaServlet
-``` 
